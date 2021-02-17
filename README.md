@@ -5,7 +5,7 @@ Author: Edita Narkuniene
 Simple React app to display random generated gif set.
 Used functional componenets, hooks and Context API.
 
-- New set of gifs(sorted byimport_datetime parameter) is appearing on each button click or SPACEBAR press
+- New set of gifs(sorted by ```import_datetime``` parameter) is appearing on each button click or SPACEBAR press
 - Each gif can be locked/unlocked by clicking it respectively
 - Locked gifs are immune to new fetches. They will hold the same position in page grid
 - Browser stotage is used to save locked gifs
